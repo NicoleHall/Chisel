@@ -19,4 +19,4 @@ My favorite cuisines are:
 
 1. Sushi
 2. Barbeque
-3. Mexica
+3. Mexican

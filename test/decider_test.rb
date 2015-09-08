@@ -71,6 +71,4 @@ class DeciderTest < Minitest::Test
 
   end
 
-
-
 end
